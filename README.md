@@ -1,4 +1,4 @@
-# System Monitoring Tool
+# Advanced System Monitoring Tool
 
 This repository contains a Python script designed to monitor various aspects of a Windows system. The tool provides detailed information on system processes, resource usage, and potential threats. It generates both text and CSV reports for comprehensive analysis.
 
